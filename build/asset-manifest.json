@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.c007f5cb.css",
+    "main.js": "/react-gh-pages/static/js/main.174bc9b2.js",
+    "static/js/415.08b7ea92.chunk.js": "/react-gh-pages/static/js/415.08b7ea92.chunk.js",
+    "static/js/787.5d4b58a1.chunk.js": "/react-gh-pages/static/js/787.5d4b58a1.chunk.js",
+    "static/media/chat.jpg": "/react-gh-pages/static/media/chat.0f166bc24375310dbb11.jpg",
+    "static/media/solutionch.svg": "/react-gh-pages/static/media/solutionch.f75954b9fefb4033742c8574b43b9d32.svg",
+    "static/media/Montserrat-Bold.ttf": "/react-gh-pages/static/media/Montserrat-Bold.0915f0a8c3367a6d05ec.ttf",
+    "static/media/Poppins-Regular.ttf": "/react-gh-pages/static/media/Poppins-Regular.1c701c9a6b587802e3d0.ttf",
+    "static/media/Poppins-Medium.ttf": "/react-gh-pages/static/media/Poppins-Medium.b59f6a636397975c5409.ttf",
+    "static/media/Poppins-Bold.ttf": "/react-gh-pages/static/media/Poppins-Bold.e2abc8f5e9a67ea669ea.ttf",
+    "static/media/goole.jpg": "/react-gh-pages/static/media/goole.4080b0f2a84c01cb4acd.jpg",
+    "static/media/gds.jpg": "/react-gh-pages/static/media/gds.ad847dd4310a13c17e7f.jpg",
+    "static/media/kotlin.jpg": "/react-gh-pages/static/media/kotlin.c1964e0e77abaa6343d2.jpg",
+    "static/media/goal-03.png": "/react-gh-pages/static/media/goal-03.0f358a96e758a4e9a562.png",
+    "static/media/goal-06.png": "/react-gh-pages/static/media/goal-06.9f4c636ae2501cc3e6c5.png",
+    "static/media/goal-01.png": "/react-gh-pages/static/media/goal-01.a97566ea6aafd9679588.png",
+    "static/media/gdsclogo.png": "/react-gh-pages/static/media/gdsclogo.6434c893fe7ca69e980c.png",
+    "static/media/dsclogo.png": "/react-gh-pages/static/media/dsclogo.9cc6b2a1a804f65b6869.png",
+    "static/media/goal-04.png": "/react-gh-pages/static/media/goal-04.b070534c18aa6b0b0ae8.png",
+    "static/media/goal-05.png": "/react-gh-pages/static/media/goal-05.e68ff3f866c142c4a7c3.png",
+    "static/media/Dcode.jpg": "/react-gh-pages/static/media/Dcode.c0c7a9e3895b8382095e.jpg",
+    "static/media/goal-02.png": "/react-gh-pages/static/media/goal-02.ea708de3a8bc3c162163.png",
+    "static/media/pre.svg": "/react-gh-pages/static/media/pre.ddfd6a2845997a104041.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.c007f5cb.css.map": "/react-gh-pages/static/css/main.c007f5cb.css.map",
+    "main.174bc9b2.js.map": "/react-gh-pages/static/js/main.174bc9b2.js.map",
+    "415.08b7ea92.chunk.js.map": "/react-gh-pages/static/js/415.08b7ea92.chunk.js.map",
+    "787.5d4b58a1.chunk.js.map": "/react-gh-pages/static/js/787.5d4b58a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c007f5cb.css",
+    "static/js/main.174bc9b2.js"
+  ]
+}
