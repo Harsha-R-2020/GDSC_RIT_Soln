@@ -1,8 +1,8 @@
 {
-  "name": "portfolio",
+  "name": "GDSC_RIT",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://harsha-r-2020.github.io/Portfolio-Harsha/",
+   "homepage": "https://gitname.github.io/react-gh-pages",
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
     "@testing-library/jest-dom": "^5.16.2",
@@ -36,6 +36,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
+    
   },
   "eslintConfig": {
     "extends": [
