@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/react-gh-pages/static/css/main.c007f5cb.css",
-    "main.js": "/react-gh-pages/static/js/main.174bc9b2.js",
-    "static/js/415.08b7ea92.chunk.js": "/react-gh-pages/static/js/415.08b7ea92.chunk.js",
-    "static/js/787.5d4b58a1.chunk.js": "/react-gh-pages/static/js/787.5d4b58a1.chunk.js",
+    "main.js": "/react-gh-pages/static/js/main.a2540f2e.js",
+    "static/js/415.359d400f.chunk.js": "/react-gh-pages/static/js/415.359d400f.chunk.js",
+    "static/js/787.de33c5d2.chunk.js": "/react-gh-pages/static/js/787.de33c5d2.chunk.js",
     "static/media/chat.jpg": "/react-gh-pages/static/media/chat.0f166bc24375310dbb11.jpg",
     "static/media/solutionch.svg": "/react-gh-pages/static/media/solutionch.f75954b9fefb4033742c8574b43b9d32.svg",
     "static/media/Montserrat-Bold.ttf": "/react-gh-pages/static/media/Montserrat-Bold.0915f0a8c3367a6d05ec.ttf",
@@ -25,12 +25,12 @@
     "static/media/pre.svg": "/react-gh-pages/static/media/pre.ddfd6a2845997a104041.svg",
     "index.html": "/react-gh-pages/index.html",
     "main.c007f5cb.css.map": "/react-gh-pages/static/css/main.c007f5cb.css.map",
-    "main.174bc9b2.js.map": "/react-gh-pages/static/js/main.174bc9b2.js.map",
-    "415.08b7ea92.chunk.js.map": "/react-gh-pages/static/js/415.08b7ea92.chunk.js.map",
-    "787.5d4b58a1.chunk.js.map": "/react-gh-pages/static/js/787.5d4b58a1.chunk.js.map"
+    "main.a2540f2e.js.map": "/react-gh-pages/static/js/main.a2540f2e.js.map",
+    "415.359d400f.chunk.js.map": "/react-gh-pages/static/js/415.359d400f.chunk.js.map",
+    "787.de33c5d2.chunk.js.map": "/react-gh-pages/static/js/787.de33c5d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c007f5cb.css",
-    "static/js/main.174bc9b2.js"
+    "static/js/main.a2540f2e.js"
   ]
 }
